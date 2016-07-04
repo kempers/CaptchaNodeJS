@@ -1,0 +1,25 @@
+{
+  "name": "kaptcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kaptcha.js",
+  "scripts": {
+    "test": "mocha ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kempers/CaptchaNodeJS"
+  },
+  "keywords": [
+    "captcha"    
+  ],
+  "author": "Alexey Sitdikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kempers/CaptchaNodeJS/issues"
+  },
+  "homepage": "https://github.com/klesh/kaptcha#readme",
+  "dependencies": {
+    "canvas": "^1.2.9"
+  }
+}
